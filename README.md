@@ -19,10 +19,10 @@ I am Qardruss, AKA A.K_ThePortal, I am a youtuber and a programmer who loves FOS
   }
   ```
   ```java
-  public class Qardruss {
-      public static void main() {
+  class Qardruss {
+      public static void main(String[] args) {
           string good_at = "Java";
-          System.Out.PrintLn(good_at);
+          System.out.println(good_at);
       }
   }
   ```
