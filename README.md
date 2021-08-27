@@ -22,7 +22,7 @@ I am a Programming Student and I am deeply interested in OpenAI Codex & Github C
   ```java
   class Qardruss {
       public static void main(String[] args) {
-          string good_at = "Java";
+          String good_at = "Java";
           System.out.println(good_at);
       }
   }
