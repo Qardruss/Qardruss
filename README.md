@@ -12,11 +12,11 @@ I am a Programming Student and I am deeply interested in OpenAI Codex & Github C
   ```
   ```cpp
   #include <iostream>
-  using namespace std;
+  #include <string.h>
   
   int main() {
-      string good_at = "C++";
-      cout << good_at;
+      std::string good_at = "C++";
+      std::cout << good_at;
   }
   ```
   ```java
