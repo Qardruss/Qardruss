@@ -10,15 +10,6 @@ I am a Programming Student and I am deeply interested in OpenAI Codex & Github C
   good_at = "Python"
   print(good_at)
   ```
-  ```cpp
-  #include <iostream>
-  #include <string.h>
-  
-  int main() {
-      std::string good_at = "C++";
-      std::cout << good_at;
-  }
-  ```
   ```java
   class Qardruss {
       public static void main(String[] args) {
